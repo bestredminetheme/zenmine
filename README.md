@@ -6,15 +6,7 @@ Zenmine: Best Redmine Theme with premium design and support https://bestredminet
 <br>
 
 <h2>Features: </h2>
-* Customizable.
-* Preset styles.
-* Minimal. Clear.
-* Hide sidebar. Fixed header.
-* Hide/change footer text.
-* Projects' tree display.
-* Compatible with all browsers.
-* Compatible Redmine 2.6 - 4.x
-* Compatible with all RedmineUP plugins and many more.
+Customizable. Preset styles. Minimal.Clear. Hide sidebar. Fixed header. Hide/change footer text. Projects' tree display. Compatible with all browsers. Compatible Redmine 2.6 - 4.x. Compatible with all RedmineUP plugins and many more.
 
 <h2>Changelog: </h2>
 
