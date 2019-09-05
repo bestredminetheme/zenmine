@@ -10,6 +10,19 @@ Customizable. Preset styles. Minimal.Clear. Hide sidebar. Fixed header. Hide/cha
 
 <h2>Changelog: </h2>
 
+v 1.2 (2019-09-04):</br>
+Feature: You can now customize button border radius</br>
+New: You can apply gradient colors</br>
+New: Blue-green & Blur-red skins with gradient colors</br>
+New: Custom filters will be shown closed</br>
+New: Applied main color to focused text fields borders</br>
+Bug: Sidebar did not maintain status (open – closed)</br>
+Bug: Right-click menu better placing</br>
+Bug: Icon for unlink issue added</br>
+Bug: Misplaced pop-up in text editor’s highlighted code button</br>
+Bug: Improve line position below main menu items</br>
+Plugin > Favorite projects: Improve layout</br>
+
 v 1.1 (2019-07-12):</br>
 New: Blue intense and white skins added</br>
 New: Better contacts’ avatars display (Redmine Contacts plugin)</br>
