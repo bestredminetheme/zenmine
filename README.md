@@ -10,6 +10,28 @@ Customizable. Preset styles. Minimal.Clear. Hide sidebar. Fixed header. Hide/cha
 
 <h2>Changelog: </h2>
 
+v 1.4 (2020-01-14):</br>
+New > Compatibility with Redmine 4.1</br>
+New > Improved compatibility with Redmine 4.0.</br>
+New > Improved compatibility with Agile and Helpdesk plugin.</br>
+
+v 1.3 (2019-12-02):</br>
+Feature > Decide whether sidebar on the left (default) or on the right.</br>
+New > Minimum width for subject field in issue list for better readability.</br>
+New > Improved headers for form sections.</br>
+Fix >Buttons not showing up on Gantt page.</br>
+Fix > Monospace font for pre or code environments.</br>
+Contacts plugin: improve contact view on sidebar and strike closed issue numbers.</br>
+Fix >Improved position of right-click pop-up menu.</br>
+Fix > Parent task field border.</br>
+Fix > Increase link area in pagination numbers.</br>
+Fix > Project hierarchy toggle didn’t work for all levels.</br>
+Fix > Additionals plugin: improved drop-down menu.</br>
+Fix > Missing fav/unfav icons.</br>
+Fix > Applied customized color to mobile flyout menu background.</br>
+New > Pointer cursor for filedrop area.</br>
+Fix > IExplorer: text in quick search field was not visible.</br>
+
 v 1.2 (2019-09-04):</br>
 Feature: You can now customize button border radius</br>
 New: You can apply gradient colors</br>
