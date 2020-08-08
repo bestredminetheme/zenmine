@@ -10,7 +10,7 @@ Customizable. Preset styles. Minimal.Clear. Hide sidebar. Fixed header. Hide/cha
 
 <h2>Changelog: </h2>
 
-v 1.5 (2020-07-08):</br>
+v 1.5 (2020-08-08):</br>
 Feature > Compact view</br>
 Feature > Change font size</br>
 New > Improved compatibility with Redmine 4.1</br>
