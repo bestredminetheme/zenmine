@@ -10,6 +10,14 @@ Customizable. Preset styles. Minimal.Clear. Hide sidebar. Fixed header. Hide/cha
 
 <h2>Changelog: </h2>
 
+v 1.6 (2020-09-28):</br>
+New > Opening/closing filters smoothing effect.</br>
+New > Drive plugin compatibility.</br>
+New > DMSF plugin improvements.</br>
+Bug > Wrong location of elements in new news form.</br>
+Bug > Sidebar links in Helpdesk plugin couldn’t be clicked.</br>
+Bug > Custom field is cut under certain circumstances.</br>
+
 v 1.5 (2020-08-08):</br>
 Feature > Compact view</br>
 Feature > Change font size</br>
