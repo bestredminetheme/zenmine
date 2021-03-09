@@ -10,7 +10,7 @@ Customizable. Preset styles. Minimal.Clear. Hide sidebar. Fixed header. Hide/cha
 
 <h2>Changelog: </h2>
 
-v 1.6 (2020-09-28):</br>
+v 1.6 (2021-03-08):</br>
 New > Opening/closing filters smoothing effect.</br>
 New > Drive plugin compatibility.</br>
 New > DMSF plugin improvements.</br>
