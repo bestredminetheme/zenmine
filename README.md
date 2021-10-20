@@ -10,6 +10,9 @@ Customizable. Preset styles. Minimal.Clear. Hide sidebar. Fixed header. Hide/cha
 
 <h2>Changelog: </h2>
 
+v 3.0 (2021-10-20):</br>
+New > Dark Mode.</br>
+
 v 2.0 (2021-06-10):</br>
 New > Redmine 4.2 compatibility.</br>
 New > New styling for checkboxes and radio buttons.</br>
