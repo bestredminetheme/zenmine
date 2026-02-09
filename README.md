@@ -1,5 +1,5 @@
 # Zenmine by Best Redmine Theme
-Zenmine: Best Redmine Theme with premium design and support https://bestredminetheme.com/zenmine Compatible with many plugins. Responsive. Preset skins and dark mode.
+Zenmine: Best Redmine Theme with premium design and support https://bestredminetheme.com/zenmine Compatible with many plugins. Responsive. Preset skins and dark mode. With new Live Customizer plugin.
 ![Zenmine](https://bestredminetheme.com/wp-content/uploads/2019/05/Zenmine-preset-default1.jpg)
 <br>
 ![Zenmine](https://bestredminetheme.com/wp-content/uploads/2019/05/zenmine-issue-list.jpg)
