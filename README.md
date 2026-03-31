@@ -10,9 +10,15 @@ Customizable. Preset styles. Minimal.Clear. Hide sidebar. Fixed header. Hide/cha
 
 <h2>Changelog: </h2>
 v. 6.1.3 (2026-03-06):</br>
-New > Live Customizer</br>
-New > Split view option (Gmail style)</br>
-New > Scroll to top button</br>
+New > Added a compact view option.</br>
+New > Added an option to hide the “Help” link (redmine.org/guide) from the top menu.</br>
+New > Added an assigned issues badge to the top menu.</br>
+New > Users can now resize task list columns.</br>
+New > Users can now reorder task list columns.</br>
+New > Added a sticky header to the task list.</br>
+New > Added a Quick Recap popup on task hover.</br>
+New > Added a hot-ticket temperature icon.</br>
+New > Added a global frontend notice with scheduling.</br>
 New > Redmine 6 compatibility</br></br>
 
 v. 6.1 (2026-02-09):</br>
